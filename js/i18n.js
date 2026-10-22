@@ -177,8 +177,8 @@ const I18N = {
     linksLabel: "Challenge links",
     age89: "8–9 years",
     age1012: "10–12 years",
-    course89: "Minecraft Level 1",
-    course1012: "Minecraft Level 2",
+    course89: "Minecraft Beginner",
+    course1012: "Minecraft Intermediate",
     openChallenge: "Open the challenge",
     signIn: "Sign in to Sparks",
     stepsLabel: "What the student does",
@@ -194,10 +194,10 @@ const I18N = {
       },
       {
         title: "Open the link for their age",
-        text: "Give the group one link only. Level 1 is for ages 8–9. Level 2 is for ages 10–12.",
+        text: "Give the group one link only. Minecraft Beginner is for ages 8–9. Minecraft Intermediate is for ages 10–12.",
         links: [
-          { href: LINK_89, label: "Minecraft Level 1 · 8–9 years" },
-          { href: LINK_1012, label: "Minecraft Level 2 · 10–12 years" },
+          { href: LINK_89, label: "Minecraft Beginner · 8–9 years" },
+          { href: LINK_1012, label: "Minecraft Intermediate · 10–12 years" },
         ],
       },
       {
@@ -250,7 +250,7 @@ const I18N = {
       },
       {
         lead: "Match the link to the age.",
-        text: "Level 1 for ages 8–9. Level 2 for ages 10–12. Give only that link.",
+        text: "Minecraft Beginner for ages 8–9. Minecraft Intermediate for ages 10–12. Give only that link.",
       },
       {
         lead: "If Robby does not accept the work,",
@@ -272,8 +272,8 @@ const I18N = {
     linksLabel: "Links do desafio",
     age89: "8–9 anos",
     age1012: "10–12 anos",
-    course89: "Minecraft Level 1",
-    course1012: "Minecraft Level 2",
+    course89: "Minecraft Beginner",
+    course1012: "Minecraft Intermediate",
     openChallenge: "Abrir o desafio",
     signIn: "Entrar no Sparks",
     stepsLabel: "O que o aluno faz",
@@ -289,10 +289,10 @@ const I18N = {
       },
       {
         title: "Abrir o link da idade",
-        text: "Envie à turma um único link. Level 1 é para 8–9 anos. Level 2 é para 10–12 anos.",
+        text: "Envie à turma um único link. Minecraft Beginner é para 8–9 anos. Minecraft Intermediate é para 10–12 anos.",
         links: [
-          { href: LINK_89, label: "Minecraft Level 1 · 8–9 anos" },
-          { href: LINK_1012, label: "Minecraft Level 2 · 10–12 anos" },
+          { href: LINK_89, label: "Minecraft Beginner · 8–9 anos" },
+          { href: LINK_1012, label: "Minecraft Intermediate · 10–12 anos" },
         ],
       },
       {
@@ -345,7 +345,7 @@ const I18N = {
       },
       {
         lead: "O link segue a idade.",
-        text: "Level 1 para 8–9 anos. Level 2 para 10–12 anos. Envie somente esse link.",
+        text: "Minecraft Beginner para 8–9 anos. Minecraft Intermediate para 10–12 anos. Envie somente esse link.",
       },
       {
         lead: "Se o Robby não aceitar o trabalho,",
@@ -367,8 +367,8 @@ const I18N = {
     linksLabel: "Enlaces del desafío",
     age89: "8–9 años",
     age1012: "10–12 años",
-    course89: "Minecraft Level 1",
-    course1012: "Minecraft Level 2",
+    course89: "Minecraft Beginner",
+    course1012: "Minecraft Intermediate",
     openChallenge: "Abrir el desafío",
     signIn: "Entrar en Sparks",
     stepsLabel: "Qué hace el alumno",
@@ -384,10 +384,10 @@ const I18N = {
       },
       {
         title: "Abrir el enlace de su edad",
-        text: "Den al grupo un solo enlace. Level 1 es para 8–9 años. Level 2 es para 10–12 años.",
+        text: "Den al grupo un solo enlace. Minecraft Beginner es para 8–9 años. Minecraft Intermediate es para 10–12 años.",
         links: [
-          { href: LINK_89, label: "Minecraft Level 1 · 8–9 años" },
-          { href: LINK_1012, label: "Minecraft Level 2 · 10–12 años" },
+          { href: LINK_89, label: "Minecraft Beginner · 8–9 años" },
+          { href: LINK_1012, label: "Minecraft Intermediate · 10–12 años" },
         ],
       },
       {
@@ -440,7 +440,7 @@ const I18N = {
       },
       {
         lead: "El enlace va según la edad.",
-        text: "Level 1 para 8–9 años. Level 2 para 10–12 años. Den solo ese enlace.",
+        text: "Minecraft Beginner para 8–9 años. Minecraft Intermediate para 10–12 años. Den solo ese enlace.",
       },
       {
         lead: "Si Robby no acepta el trabajo,",
@@ -462,8 +462,8 @@ const I18N = {
     linksLabel: "Ссылки на испытание",
     age89: "8–9 лет",
     age1012: "10–12 лет",
-    course89: "Minecraft Level 1",
-    course1012: "Minecraft Level 2",
+    course89: "Minecraft Beginner",
+    course1012: "Minecraft Intermediate",
     openChallenge: "Открыть испытание",
     signIn: "Войти в Sparks",
     stepsLabel: "Что делает ученик",
@@ -479,10 +479,10 @@ const I18N = {
       },
       {
         title: "Открыть ссылку своего возраста",
-        text: "Дайте группе одну ссылку, строго по возрасту: Level 1 — 8–9 лет, Level 2 — 10–12 лет.",
+        text: "Дайте группе одну ссылку, строго по возрасту: Minecraft Beginner — 8–9 лет, Minecraft Intermediate — 10–12 лет.",
         links: [
-          { href: LINK_89, label: "Minecraft Level 1 · 8–9 лет" },
-          { href: LINK_1012, label: "Minecraft Level 2 · 10–12 лет" },
+          { href: LINK_89, label: "Minecraft Beginner · 8–9 лет" },
+          { href: LINK_1012, label: "Minecraft Intermediate · 10–12 лет" },
         ],
       },
       {
@@ -535,7 +535,7 @@ const I18N = {
       },
       {
         lead: "Ссылка строго по возрасту.",
-        text: "Level 1 — 8–9 лет, Level 2 — 10–12 лет. Дайте только эту ссылку.",
+        text: "Minecraft Beginner — 8–9 лет, Minecraft Intermediate — 10–12 лет. Дайте только эту ссылку.",
       },
       {
         lead: "Если Robby не принял работу,",
@@ -557,8 +557,8 @@ const I18N = {
     linksLabel: "Linki do wyzwania",
     age89: "8–9 lat",
     age1012: "10–12 lat",
-    course89: "Minecraft Level 1",
-    course1012: "Minecraft Level 2",
+    course89: "Minecraft Beginner",
+    course1012: "Minecraft Intermediate",
     openChallenge: "Otwórz wyzwanie",
     signIn: "Wejdź do Sparks",
     stepsLabel: "Co robi uczeń",
@@ -574,10 +574,10 @@ const I18N = {
       },
       {
         title: "Otworzyć link dla swojego wieku",
-        text: "Dajcie grupie jeden link, ściśle według wieku: Level 1 — 8–9 lat, Level 2 — 10–12 lat.",
+        text: "Dajcie grupie jeden link, ściśle według wieku: Minecraft Beginner — 8–9 lat, Minecraft Intermediate — 10–12 lat.",
         links: [
-          { href: LINK_89, label: "Minecraft Level 1 · 8–9 lat" },
-          { href: LINK_1012, label: "Minecraft Level 2 · 10–12 lat" },
+          { href: LINK_89, label: "Minecraft Beginner · 8–9 lat" },
+          { href: LINK_1012, label: "Minecraft Intermediate · 10–12 lat" },
         ],
       },
       {
@@ -630,7 +630,7 @@ const I18N = {
       },
       {
         lead: "Link ściśle według wieku.",
-        text: "Level 1 — 8–9 lat, Level 2 — 10–12 lat. Podajcie tylko ten link.",
+        text: "Minecraft Beginner — 8–9 lat, Minecraft Intermediate — 10–12 lat. Podajcie tylko ten link.",
       },
       {
         lead: "Jeśli Robby nie przyjmie pracy,",
@@ -652,8 +652,8 @@ const I18N = {
     linksLabel: "Link della sfida",
     age89: "8–9 anni",
     age1012: "10–12 anni",
-    course89: "Minecraft Level 1",
-    course1012: "Minecraft Level 2",
+    course89: "Minecraft Beginner",
+    course1012: "Minecraft Intermediate",
     openChallenge: "Apri la sfida",
     signIn: "Entra in Sparks",
     stepsLabel: "Cosa fa lo studente",
@@ -669,10 +669,10 @@ const I18N = {
       },
       {
         title: "Aprire il link della propria età",
-        text: "Date al gruppo un solo link, in base all’età: Level 1 — 8–9 anni, Level 2 — 10–12 anni.",
+        text: "Date al gruppo un solo link, in base all’età: Minecraft Beginner — 8–9 anni, Minecraft Intermediate — 10–12 anni.",
         links: [
-          { href: LINK_89, label: "Minecraft Level 1 · 8–9 anni" },
-          { href: LINK_1012, label: "Minecraft Level 2 · 10–12 anni" },
+          { href: LINK_89, label: "Minecraft Beginner · 8–9 anni" },
+          { href: LINK_1012, label: "Minecraft Intermediate · 10–12 anni" },
         ],
       },
       {
@@ -725,7 +725,7 @@ const I18N = {
       },
       {
         lead: "Il link segue l’età.",
-        text: "Level 1 — 8–9 anni, Level 2 — 10–12 anni. Date solo quel link.",
+        text: "Minecraft Beginner — 8–9 anni, Minecraft Intermediate — 10–12 anni. Date solo quel link.",
       },
       {
         lead: "Se Robby non accetta il lavoro,",
@@ -749,8 +749,8 @@ const I18N = {
     linksLabel: "روابط التحدي",
     age89: "٨–٩ سنوات",
     age1012: "١٠–١٢ سنة",
-    course89: "Minecraft Level 1",
-    course1012: "Minecraft Level 2",
+    course89: "Minecraft Beginner",
+    course1012: "Minecraft Intermediate",
     openChallenge: "فتح التحدي",
     signIn: "الدخول إلى Sparks",
     stepsLabel: "ماذا يفعل التلميذ",
@@ -766,10 +766,10 @@ const I18N = {
       },
       {
         title: "فتح الرابط المناسب للعمر",
-        text: "أعطوا المجموعة رابطًا واحدًا فقط، حسب العمر: Level 1 للأعمار ٨–٩ سنوات، وLevel 2 للأعمار ١٠–١٢ سنة.",
+        text: "أعطوا المجموعة رابطًا واحدًا فقط، حسب العمر: Minecraft Beginner للأعمار ٨–٩ سنوات، وMinecraft Intermediate للأعمار ١٠–١٢ سنة.",
         links: [
-          { href: LINK_89, label: "Minecraft Level 1 · ٨–٩ سنوات" },
-          { href: LINK_1012, label: "Minecraft Level 2 · ١٠–١٢ سنة" },
+          { href: LINK_89, label: "Minecraft Beginner · ٨–٩ سنوات" },
+          { href: LINK_1012, label: "Minecraft Intermediate · ١٠–١٢ سنة" },
         ],
       },
       {
@@ -822,7 +822,7 @@ const I18N = {
       },
       {
         lead: "الرابط حسب العمر بدقة.",
-        text: "Level 1 للأعمار ٨–٩ سنوات، وLevel 2 للأعمار ١٠–١٢ سنة. أعطوا هذا الرابط فقط.",
+        text: "Minecraft Beginner للأعمار ٨–٩ سنوات، وMinecraft Intermediate للأعمار ١٠–١٢ سنة. أعطوا هذا الرابط فقط.",
       },
       {
         lead: "إذا لم يقبل Robby العمل،",
@@ -844,8 +844,8 @@ const I18N = {
     linksLabel: "Tautan tantangan",
     age89: "8–9 tahun",
     age1012: "10–12 tahun",
-    course89: "Minecraft Level 1",
-    course1012: "Minecraft Level 2",
+    course89: "Minecraft Beginner",
+    course1012: "Minecraft Intermediate",
     openChallenge: "Buka tantangan",
     signIn: "Masuk ke Sparks",
     stepsLabel: "Apa yang murid lakukan",
@@ -861,10 +861,10 @@ const I18N = {
       },
       {
         title: "Buka tautan sesuai usia",
-        text: "Berikan satu tautan saja kepada kelompok, sesuai usia: Level 1 untuk 8–9 tahun, Level 2 untuk 10–12 tahun.",
+        text: "Berikan satu tautan saja kepada kelompok, sesuai usia: Minecraft Beginner untuk 8–9 tahun, Minecraft Intermediate untuk 10–12 tahun.",
         links: [
-          { href: LINK_89, label: "Minecraft Level 1 · 8–9 tahun" },
-          { href: LINK_1012, label: "Minecraft Level 2 · 10–12 tahun" },
+          { href: LINK_89, label: "Minecraft Beginner · 8–9 tahun" },
+          { href: LINK_1012, label: "Minecraft Intermediate · 10–12 tahun" },
         ],
       },
       {
@@ -917,7 +917,7 @@ const I18N = {
       },
       {
         lead: "Tautan harus sesuai usia.",
-        text: "Level 1 untuk 8–9 tahun. Level 2 untuk 10–12 tahun. Berikan hanya tautan itu.",
+        text: "Minecraft Beginner untuk 8–9 tahun. Minecraft Intermediate untuk 10–12 tahun. Berikan hanya tautan itu.",
       },
       {
         lead: "Jika Robby tidak menerima karya,",
@@ -939,8 +939,8 @@ const I18N = {
     linksLabel: "Görev bağlantıları",
     age89: "8–9 yaş",
     age1012: "10–12 yaş",
-    course89: "Minecraft Level 1",
-    course1012: "Minecraft Level 2",
+    course89: "Minecraft Beginner",
+    course1012: "Minecraft Intermediate",
     openChallenge: "Görevi aç",
     signIn: "Sparks’a gir",
     stepsLabel: "Öğrenci ne yapar",
@@ -956,10 +956,10 @@ const I18N = {
       },
       {
         title: "Yaşa uygun bağlantıyı açmak",
-        text: "Gruba tek bir bağlantı verin, yaşa göre: Level 1, 8–9 yaş. Level 2, 10–12 yaş.",
+        text: "Gruba tek bir bağlantı verin, yaşa göre: Minecraft Beginner, 8–9 yaş. Minecraft Intermediate, 10–12 yaş.",
         links: [
-          { href: LINK_89, label: "Minecraft Level 1 · 8–9 yaş" },
-          { href: LINK_1012, label: "Minecraft Level 2 · 10–12 yaş" },
+          { href: LINK_89, label: "Minecraft Beginner · 8–9 yaş" },
+          { href: LINK_1012, label: "Minecraft Intermediate · 10–12 yaş" },
         ],
       },
       {
@@ -1012,7 +1012,7 @@ const I18N = {
       },
       {
         lead: "Bağlantı yaşa göre verilir.",
-        text: "Level 1, 8–9 yaş. Level 2, 10–12 yaş. Yalnızca o bağlantıyı verin.",
+        text: "Minecraft Beginner, 8–9 yaş. Minecraft Intermediate, 10–12 yaş. Yalnızca o bağlantıyı verin.",
       },
       {
         lead: "Robby çalışmayı kabul etmezse,",
